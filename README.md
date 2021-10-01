@@ -7,8 +7,11 @@
 
 #### Top Repositories
 
-<a href="https://github.com/kokabi1365/vajehdan" dir="rtl">
+<div dir="rtl">
+	<a href="https://github.com/kokabi1365/vajehdan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kokabi1365&repo=vajehdan&theme=buefy" />
 </a>
+	</div>
+
 <br />
 <br />
